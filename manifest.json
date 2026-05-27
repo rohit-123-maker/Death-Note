@@ -1,0 +1,20 @@
+{
+  "name": "Death Note ☠️",
+  "short_name": "Death Note",
+  "start_url": "https://rohit-123-maker.github.io/Death-Note/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff4d6d",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/rohit-123-maker/My-Secret-Love-Diary/main/1777821166342.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/rohit-123-maker/My-Secret-Love-Diary/main/1777821166342.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
