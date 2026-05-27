@@ -1,4 +1,4 @@
-const CACHE_NAME = "death-note-cache-v1";
+const CACHE_NAME = "death-note-cache-v12.8";
 const urlsToCache = [
   "./",
   "./index.html",
