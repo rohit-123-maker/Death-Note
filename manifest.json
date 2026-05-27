@@ -1,18 +1,18 @@
 {
   "name": "Death Note ☠️",
   "short_name": "Death Note",
-  "start_url": "https://rohit-123-maker.github.io/Death-Note/",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#5B0099",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/rohit-123-maker/Death-Note/main/icon/1779860089461.png",
+      "src": "./icon/1779860089461.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/rohit-123-maker/Death-Note/main/icon/icon-512x512.png",
+      "src": "./icon/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
