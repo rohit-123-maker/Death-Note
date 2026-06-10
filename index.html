@@ -1005,5 +1005,18 @@ if ("serviceWorker" in navigator) {
     .then(() => console.log("Service Worker Registered"));
 }
     </script>
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(async function(OneSignal) {
+    await OneSignal.init({
+      appId: "d99d7a3e-9c0e-4950-8a2c-b03d47532807",
+      safari_web_id: "web.onesignal.auto.1947bcbb-3df5-45a5-b464-0be0e15f4a2c",
+      notifyButton: {
+        enable: true,
+      },
+    });
+  });
+</script>
 </body>
 </html>
